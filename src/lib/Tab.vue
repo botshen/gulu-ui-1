@@ -1,15 +1,5 @@
 <template>
   <div>
-    Tab组件
+    <slot />
   </div>
 </template>
-
-<script>
-export default {
-  name: "Tab"
-}
-</script>
-
-<style scoped>
-
-</style>
